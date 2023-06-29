@@ -1,6 +1,6 @@
 # Fitness Factory
 
-### Live - https://satish-fitness-factory.netlify.app/
+### Live -https://react-myfitness-app.netlify.app/
 
 `ExerciseDB API`: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb                                                          
 `Youtube Search and Download` - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download 
